@@ -1,6 +1,6 @@
 # pendulum
 
-this is phisics simulations.
+this is physics simulations.
 
 ### useage
 
